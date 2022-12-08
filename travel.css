@@ -12,3 +12,7 @@ p {
 body {
     background-color: rgb(176, 173, 190);
 }
+
+select {
+    background-color: rgb(224, 155, 241);
+}
